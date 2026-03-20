@@ -1,4 +1,4 @@
-# Ardzaganq (EAP180/3/10 Armenian periodicals) Scraper 
+# Ardzaganq 1895-1897(EAP180/3/10 Armenian periodicals) Scraper 
 
 Scraper and dataset for metadata from the British Library Endangered Archives Programme collection EAP180/3/10, as part of the Open Data Armenia project.
 
